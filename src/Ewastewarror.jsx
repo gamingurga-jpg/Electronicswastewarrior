@@ -68,10 +68,3 @@ export default function EwasteWarrior() {
     </div>
   );
 }
-
-
-I rewrote your project in pure React + Tailwind CSS (no extra libraries).
-Now you can paste this directly into GitHub, and it will work without needing to install shadcn/ui or framer-motion.
-
-Do you also want me to create a backend (Node.js + Express + MongoDB) so the submitted data actually gets stored instead of just showing “Thank You”?
-
