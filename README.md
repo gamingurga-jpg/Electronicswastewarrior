@@ -1,5 +1,5 @@
 # Electronicswastewarrior
-import { useState } from "react";
+welcome to Ritesh waste warrior
 
 export default function EwasteWarrior() {
   const [formData, setFormData] = useState({ name: "", address: "", location: "" });
